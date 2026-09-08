@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Daily billable GB and cost for the past 90 days, with CostUSD as a numeric column.
 // Use this variant when you want to graph cost over time — CostUSD stays a float,
 // which the chart renderers can plot directly. For a display-friendly '$X.XX / Day'

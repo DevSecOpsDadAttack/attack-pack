@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Top 10 Alerts with Percentage of Total Alerts - Updated/Advanced
 
 let totalAlerts = toscalar(SecurityAlert

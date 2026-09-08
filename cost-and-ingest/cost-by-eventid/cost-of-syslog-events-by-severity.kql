@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Calculate your effective Per GB Price https://azure.microsoft.com/en-ca/pricing/details/microsoft-sentinel/?cdn=disable
 // If your environment has different commitment tiers for your workspace and sentinel instances, follow this guide to calculate your effective Per GB rate: 
 // https://www.hanley.cloud/2023-05-15-Sentinel-Cost-Optimization-Part-2/

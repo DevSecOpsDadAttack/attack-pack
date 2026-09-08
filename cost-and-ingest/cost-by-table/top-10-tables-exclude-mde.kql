@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Top 10 most expensive log sources (excluding MDE) in the last 90 days, using the Usage table.
 // Much faster than the `search *` variant because it reads pre-aggregated ingest metrics
 // instead of scanning every row in every table. Use this by default; only fall back to the

@@ -1,3 +1,4 @@
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 //New or Rarely Seen Domains
 let cutoff = ago(24h);
 let recent = pihole_CL

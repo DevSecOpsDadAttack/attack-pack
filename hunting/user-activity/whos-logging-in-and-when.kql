@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 
 // A timestamped feed of RDP logon (EventID 4624 with LogonType 10), logoff (4634), and
 // session reconnect/disconnect (4778/4779) events over the last 30 days. Use for

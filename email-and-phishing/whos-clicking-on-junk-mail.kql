@@ -1,3 +1,4 @@
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 let JunkedEmails = EmailEvents
 | where DeliveryLocation == "Junk folder"
 | distinct NetworkMessageId;

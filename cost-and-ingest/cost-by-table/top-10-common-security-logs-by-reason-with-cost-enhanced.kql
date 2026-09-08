@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Top 10 CommonSecurityLog reasons by event count over the last 90 days, grouped by Reason and
 // LogSeverity, with total GB, event count, and an emoji cost-tier indicator.
 // Ranked by event volume (which is often more actionable than raw dollar cost when Reason values

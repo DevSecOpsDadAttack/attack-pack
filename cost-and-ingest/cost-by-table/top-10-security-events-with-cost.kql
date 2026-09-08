@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Top 10 most expensive SecurityEvent EventIDs (with Activity) over the last 30 days, with
 // numeric CostUSD. Includes Activity in the grouping so you can tell 4624 (An account was
 // successfully logged on) apart from 4625 etc. at a glance.

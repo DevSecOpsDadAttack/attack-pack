@@ -1,4 +1,4 @@
-// Author: Ian D. Hanley | LinkedIn: /in/ianhanley/ | Twitter: @IanDHanley | Github: https://github.com/EEN421 | Blog: Hanley.cloud / DevSecOpsDad.com
+// Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 // Top 10 most expensive log sources by DataType over the last 30 days, with an emoji cost-tier
 // indicator and a formatted '$X.XX' cost column. Best for tables and human-readable dashboards.
 // For a numeric CostUSD variant that plays nicely with charts and downstream aggregation,
