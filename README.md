@@ -19,9 +19,3 @@ Long-form write-ups on many of these live at [hanley.cloud](https://hanley.cloud
 | [`reference/`](./reference/) | Teaching examples that illustrate a KQL concept rather than solving a specific problem. |
 | [`reporting/`](./reporting/) | Periodic-summary queries for stakeholder reporting — weekly, monthly, or quarterly. |
 | [`pihole/`](./pihole/) | Pi-hole DNS analytics ingested into a Log Analytics workspace. |
-
-## Naming conventions
-
-- File names use `kebab-case.kql`.
-- Folder READMEs list every query with a one-line description.
-- Queries authored by me start with an `// Author:` header block.
