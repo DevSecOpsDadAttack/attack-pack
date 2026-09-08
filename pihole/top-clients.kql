@@ -1,0 +1,4 @@
+// Identify the top 10 clients making DNS queries
+PiHole
+| summarize Count = count() by ClientIP  // Aggregate counts by client IP
+| top 10 by Count  // Select the top 10 clients by count

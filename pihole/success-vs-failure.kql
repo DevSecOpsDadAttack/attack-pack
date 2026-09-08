@@ -1,0 +1,5 @@
+// Compare the number of successful versus failed DNS queries
+
+PiHole
+| summarize Count = count() by ResponseCode  // Aggregate counts by response code
+| render barchart  // Visualize the data as a bar chart
