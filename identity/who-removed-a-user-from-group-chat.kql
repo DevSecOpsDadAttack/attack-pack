@@ -1,6 +1,5 @@
 // Author: Ian D. Hanley (DevSecOpsDad) | linkedin.com/in/ianhanley | devsecopsdad.com | devsecopsdadattack.com
 //This is a targeted audit query for: “Show me all Teams-related removal actions performed by a specific user in the last 7 days.”
-// Source: KQL Toolbox #6: From Junk Clicks To Identity & Privilege Control (2026-01-31) — https://www.hanley.cloud/2026-01-31-KQL-Toolbox-6-From-Junk-Clicks-to-Identity-%26-Privilege-Control/
 // Tactics: Impact
 // Techniques: T1531
 // Platforms: Microsoft 365, Teams
